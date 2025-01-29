@@ -126,7 +126,7 @@ and 1=2 union select 1,2..,column_name..,n from table_name----上边的x替换�
 
 ## Access
 
-![image-20250112182417746](\SQL注入原理.assets\image-20250112182417746.png)
+![image-20250112182417746](SQL注入原理.assets\image-20250112182417746.png)
 
 参考文章：
 
